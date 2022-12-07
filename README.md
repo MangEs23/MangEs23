@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MangEs23
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back-end using JS
+- 🌱 I’m currently learning Back-end using JS and GO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 📧: tempestdragon987@gmail.com.
 
